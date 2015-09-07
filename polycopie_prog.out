@@ -1,0 +1,50 @@
+\BOOKMARK [0][-]{chapter*.4}{Introduction}{}% 1
+\BOOKMARK [0][-]{chapter.1}{D\351buter en programmation}{}% 2
+\BOOKMARK [1][-]{section.1.1}{Environnement de d\351veloppement}{chapter.1}% 3
+\BOOKMARK [1][-]{section.1.2}{Mon premier programme}{chapter.1}% 4
+\BOOKMARK [1][-]{section.1.3}{Un peu de vocabulaire}{chapter.1}% 5
+\BOOKMARK [0][-]{chapter.2}{Les variables}{}% 6
+\BOOKMARK [1][-]{section.2.1}{D\351claration simple}{chapter.2}% 7
+\BOOKMARK [1][-]{section.2.2}{D\351claration avec initialisation}{chapter.2}% 8
+\BOOKMARK [1][-]{section.2.3}{Utilisation}{chapter.2}% 9
+\BOOKMARK [0][-]{chapter.3}{Les entr\351es-sorties}{}% 10
+\BOOKMARK [1][-]{section.3.1}{Affichage \340 l'\351cran: printf}{chapter.3}% 11
+\BOOKMARK [2][-]{subsection.3.1.1}{Affichage statique}{section.3.1}% 12
+\BOOKMARK [2][-]{subsection.3.1.2}{Affichage de variable}{section.3.1}% 13
+\BOOKMARK [1][-]{section.3.2}{Lecture au clavier}{chapter.3}% 14
+\BOOKMARK [2][-]{subsection.3.2.1}{Lecture multitype: scanf}{section.3.2}% 15
+\BOOKMARK [2][-]{subsection.3.2.2}{Lecture d'un caract\350re: getch/getche}{section.3.2}% 16
+\BOOKMARK [2][-]{subsection.3.2.3}{Lecture d'une cha\356ne de caract\350res: gets}{section.3.2}% 17
+\BOOKMARK [1][-]{section.3.3}{Un exemple d'IHM}{chapter.3}% 18
+\BOOKMARK [0][-]{chapter.4}{Les op\351rations de base}{}% 19
+\BOOKMARK [1][-]{section.4.1}{Les op\351rations d'affectation}{chapter.4}% 20
+\BOOKMARK [1][-]{section.4.2}{Les op\351rations math\351matiques}{chapter.4}% 21
+\BOOKMARK [1][-]{section.4.3}{Les op\351rations de comparaison}{chapter.4}% 22
+\BOOKMARK [1][-]{section.4.4}{Les op\351rations binaires}{chapter.4}% 23
+\BOOKMARK [0][-]{chapter.5}{Les structures de contr\364le}{}% 24
+\BOOKMARK [1][-]{section.5.1}{L'instruction if}{chapter.5}% 25
+\BOOKMARK [1][-]{section.5.2}{L'instruction switch}{chapter.5}% 26
+\BOOKMARK [1][-]{section.5.3}{L'instruction while}{chapter.5}% 27
+\BOOKMARK [1][-]{section.5.4}{L'instruction for}{chapter.5}% 28
+\BOOKMARK [0][-]{chapter.6}{Les variables compos\351es}{}% 29
+\BOOKMARK [1][-]{section.6.1}{Les tableaux}{chapter.6}% 30
+\BOOKMARK [2][-]{subsection.6.1.1}{D\351claration}{section.6.1}% 31
+\BOOKMARK [2][-]{subsection.6.1.2}{Utilisation}{section.6.1}% 32
+\BOOKMARK [2][-]{subsection.6.1.3}{Initialisation}{section.6.1}% 33
+\BOOKMARK [2][-]{subsection.6.1.4}{Exemple}{section.6.1}% 34
+\BOOKMARK [2][-]{subsection.6.1.5}{Les tableaux multidimensionnels}{section.6.1}% 35
+\BOOKMARK [1][-]{section.6.2}{Les structures}{chapter.6}% 36
+\BOOKMARK [2][-]{subsection.6.2.1}{D\351finition}{section.6.2}% 37
+\BOOKMARK [2][-]{subsection.6.2.2}{D\351claration}{section.6.2}% 38
+\BOOKMARK [2][-]{subsection.6.2.3}{Utilisation}{section.6.2}% 39
+\BOOKMARK [2][-]{subsection.6.2.4}{Initialisation}{section.6.2}% 40
+\BOOKMARK [2][-]{subsection.6.2.5}{Exemple}{section.6.2}% 41
+\BOOKMARK [0][-]{chapter.7}{Les fonctions}{}% 42
+\BOOKMARK [1][-]{section.7.1}{Corps de la fonction}{chapter.7}% 43
+\BOOKMARK [2][-]{subsection.7.1.1}{Transmission des entr\351es}{section.7.1}% 44
+\BOOKMARK [1][-]{section.7.2}{Appel de la fonction}{chapter.7}% 45
+\BOOKMARK [2][-]{subsection.7.2.1}{Exemples}{section.7.2}% 46
+\BOOKMARK [0][-]{appendix.A}{Les librairies standards du C}{}% 47
+\BOOKMARK [0][-]{appendix.B}{Les mots r\351serv\351s du C}{}% 48
+\BOOKMARK [0][-]{appendix.C}{Les diff\351rents types de variables}{}% 49
+\BOOKMARK [0][-]{appendix*.53}{Bibliographie}{}% 50
